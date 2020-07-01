@@ -305,3 +305,4 @@ CONFIG_PACKAGE_lua-maxminddb=y
 CONFIG_PACKAGE_luci-app-vssr=y
 EOF
 rm -rf package-temp
+# test build
